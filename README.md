@@ -1,12 +1,9 @@
-<code>🎓 Student: KPI / IM-11</code>
-<code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>🎓 Student: KPI / IP-92</code>
+<code>👷 Speciality: Software engineer / Backend / Front-end</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++</code>
-<code>📦 Tech stack: node.js</code>
+<code>🧑‍💻 Languages: Node.js, JavaScript, Python</code>
+<code>📦 Tech stack: node.js, Vue.js3, PostgreSQL</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>💬 telegram: [@alexeykharenko](https://telegram.me/alexeykharenko)</code>
+<code>📫 [alexey16052002@gmail.com](mailto:alexey16052002@gmail.com)</code>
